@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Mochiy+Pop+One&family=Shadows+Into+Light&display=swap');
+
+body {
+    background-color: blanchedalmond;
+}
+
+.recipe-heading{
+    color: rgba(151, 98, 18, 0.75);
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 2rem;
+
+}
+.ingridients{
+    border: 1px solid;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 90px;
+    padding-bottom: 70px;
+    color: rgb(88, 55, 6);
+}
+
+.ingredients-table{
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.method{
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    color: rgb(177, 60, 14);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.method ol{
+    border: 1px solid rgb(191, 120, 120);
+    margin: 0 auto;
+    width: 75%;
+    padding-bottom: 20px;
+}
+.footer{
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+}
